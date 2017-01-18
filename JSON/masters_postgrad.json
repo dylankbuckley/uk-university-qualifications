@@ -1,0 +1,202 @@
+[
+  {
+    "Abr": "BCL",
+    "Qual": "Bachelor of Civil Law (Oxford)",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "BPhil",
+    "Qual": "Bachelor of Philosophy (Oxford)",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "LLM",
+    "Qual": "Master of Law",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MA",
+    "Qual": "Master of Arts",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MArch",
+    "Qual": "Master of Architecture",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MASt",
+    "Qual": "Master of Advanced Study",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MBA",
+    "Qual": "Master of Business Administration",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MBM",
+    "Qual": "Master of Business and Management",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MBiolSc",
+    "Qual": "Master of Biological Science",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MCD",
+    "Qual": "Master of Civic Design",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MCh",
+    "Qual": "Master of Surgery",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MCL",
+    "Qual": "Master of Corporate Law",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MClinDent",
+    "Qual": "Master of Clinical Dentistry",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MDes",
+    "Qual": "Master of Design",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MEd",
+    "Qual": "Master of Education",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MFA",
+    "Qual": "Master of Fine Art",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MJur",
+    "Qual": "Master of Jurisprudence",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MLib",
+    "Qual": "Master of Librarianship",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MLitt",
+    "Qual": "Master of Letters",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MMus",
+    "Qual": "Master of Music",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MOst",
+    "Qual": "Master of Osteopathy",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MPA",
+    "Qual": "Master of Public Administration",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MPH",
+    "Qual": "Master of Public Health",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MPhil",
+    "Qual": "Master of Philosophy",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MPP",
+    "Qual": "Matter of Public Policy",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MPS",
+    "Qual": "Master of Professional Studies",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MProf",
+    "Qual": "Matter of Professional Practice",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MProfSt",
+    "Qual": "Master of Professional Studies",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MRes",
+    "Qual": "Master of Research",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MSc",
+    "Qual": "Master of Science",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MSocSc",
+    "Qual": "Master of Social Science",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MSSc",
+    "Qual": "Master of Social Science",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MSt",
+    "Qual": "Master of Studies",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MSW",
+    "Qual": "Master of Social Work",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MTL",
+    "Qual": "Master of Teaching and Learning",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MTh",
+    "Qual": "Master of Theology",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MTheol",
+    "Qual": "Master of Theology",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MUniv",
+    "Qual": "Master of the University (the MUniv is only ever an honorary degree)",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "MusM",
+    "Qual": "Master of Music",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  },
+  {
+    "Abr": "LLM",
+    "Qual": "Master of Laws",
+    "Level": "Master's Level Qualifications - Postgraduate degrees"
+  }
+]

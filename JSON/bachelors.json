@@ -1,0 +1,637 @@
+[
+  {
+    "Abr": "AgrB",
+    "Qual": "Bachelor of Agriculture",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BA",
+    "Qual": "Bachelor of Arts",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BA(Admin)",
+    "Qual": "Bachelor of Arts in Administration",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BAcc",
+    "Qual": "Bachelor of Accounting",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BACom",
+    "Qual": "Bachelor of Arts in Commerce",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BAdmin",
+    "Qual": "Bachelor of Administration",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BAE",
+    "Qual": "Bachelor of Arts and Economics",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BAEcon",
+    "Qual": "Bachelor of Arts in Economics",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BA(Ed)",
+    "Qual": "Bachelor of Arts in Education",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BA(FS)",
+    "Qual": "Bachelor of Arts in Financial Studies",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BAgr",
+    "Qual": "Bachelor of Agriculture",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BAH",
+    "Qual": "Bachelor of Animal Health",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BAI",
+    "Qual": "Bachelor of Engineering (Arte Ingeniaria)",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BAI(Elect)",
+    "Qual": "Bachelor of Electrical Engineering",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BAI(Mech)",
+    "Qual": "Bachelor of Mechanical Engineering",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BALaw",
+    "Qual": "Bachelor of Arts on Law",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BAO",
+    "Qual": "Bachelor of Obstetrics (Arte Obstetricia)",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BAppSc",
+    "Qual": "Bachelor of Applied Science",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BArch",
+    "Qual": "Bachelor of Architecture",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BArchSc",
+    "Qual": "Bachelor of Architectural Science",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BARelSt",
+    "Qual": "Bachelor of Arts on Religious Studies",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BASc",
+    "Qual": "Bachelor of Arts and Science",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BASoc",
+    "Qual": "Bachelor of Arts in Sociology",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BASS",
+    "Qual": "Bachelor of Arts in the Social Sciences",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BATheol",
+    "Qual": "Bachelor of Arts on Theology",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BBA",
+    "Qual": "Bachelor of Business Administration",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BBLS",
+    "Qual": "Bachelor of Business and Legal Studies",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BBS",
+    "Qual": "Bachelor of Business Studies",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BBus",
+    "Qual": "Bachelor of Business",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BChem",
+    "Qual": "Bachelor of Chemistry",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BCJ",
+    "Qual": "Bachelor of Criminal Justice",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BCL",
+    "Qual": "Bachelor of Civil Law",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BCLD(SocSc)",
+    "Qual": "Bachelor of Community Learning and Development in Social Sciences",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BClinSci",
+    "Qual": "Bachelor of Clinical Science",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BCom",
+    "Qual": "Bachelor of Commerce",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BCombSt",
+    "Qual": "Bachelor of Combined Studies",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BCommEdCommDev",
+    "Qual": "Bachelor of Community Education and Community Development",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BComp",
+    "Qual": "Bachelor of Computing",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BComSc",
+    "Qual": "Bachelor of Commercial Science",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BCoun",
+    "Qual": "Bachelor of Counseling",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BD",
+    "Qual": "Bachelor of Divinity",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BDes",
+    "Qual": "Bachelor of Design",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BE",
+    "Qual": "Bachelor of Engineering",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BEcon",
+    "Qual": "Bachelor of Economics",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BEcon&Fin",
+    "Qual": "Bachelor of Economics and Finance",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BEconSci",
+    "Qual": "Bachelor of Science in Economics",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BEd",
+    "Qual": "Bachelor of Education",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BEng",
+    "Qual": "Bachelor of Engineering",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BES",
+    "Qual": "Bachelor of Engineering Studies",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BEng(Tech)",
+    "Qual": "Bachelor of Engineering in Technology",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BFA",
+    "Qual": "Bachelor of Fine Art",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BFin",
+    "Qual": "Bachelor of Finance",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BFLS",
+    "Qual": "Bachelor of Financial and Legal Studies",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BFST",
+    "Qual": "Bachelor of Food Science and Technology",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BH",
+    "Qual": "Bachelor of Humanities",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BHealthSc",
+    "Qual": "Bachelor of Health Sciences",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BHSc",
+    "Qual": "Bachelor of Health Science",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BHy",
+    "Qual": "Bachelor of Hygiene",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "REPLACETHISLATER",
+    "Qual": "Bachelor of International Business Administration",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BJur",
+    "Qual": "Bachelor of Jurisprudence",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BL",
+    "Qual": "Bachelor of Law",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BLE",
+    "Qual": "Bachelor of Land Economy",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BLegSc",
+    "Qual": "Bachelor of Legal Science",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BLib",
+    "Qual": "Bachelor of Librarianship",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BLing",
+    "Qual": "Bachelor of Linguistics",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BLitt",
+    "Qual": "Bachelor of Letters",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BLittCelt",
+    "Qual": "Bachelor of Celtic Letters",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BLS",
+    "Qual": "Bachelor of Library Studies",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BMedSc",
+    "Qual": "Bachelor of Medical Sciences",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BMet",
+    "Qual": "Bachelor of Metallurgy",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BMid",
+    "Qual": "Bachelor of Midwifery",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BMin",
+    "Qual": "Bachelor of Ministry",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BMS",
+    "Qual": "Bachelor of Midwifery Studies",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BMSc",
+    "Qual": "Bachelor of Medical Science",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BMSc",
+    "Qual": "Bachelor of Biomedical science",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BMS",
+    "Qual": "Bachelor of Management Studies",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BMus",
+    "Qual": "Bachelor of Music",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BMusEd",
+    "Qual": "Bachelor of Music Education",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BMusPerf",
+    "Qual": "Bachelor of Music Performance",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BN",
+    "Qual": "Bachelor of Nursing",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BNS",
+    "Qual": "Bachelor of Nursing Studies",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BNurs",
+    "Qual": "Bachelor of Nursing",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BOptom",
+    "Qual": "Bachelor of Clinical Optometry",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BPA",
+    "Qual": "Bachelor of Public Administration",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BPharm",
+    "Qual": "Bachelor of Pharmacy",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BPhil",
+    "Qual": "Bachelor of Philosophy",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BPhil(Ed)",
+    "Qual": "Bachelor of Philosophy in Education",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BPhys",
+    "Qual": "Bachelor of Physics",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BPhysio",
+    "Qual": "Bachelor of Physiotherapy",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BPl",
+    "Qual": "Bachelor of Planning",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BRadiog",
+    "Qual": "Bachelor of Radiography",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BSc",
+    "Qual": "Bachelor of Science",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BScAgr",
+    "Qual": "Bachelor of Science in Agriculture",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BSc(Dairy)",
+    "Qual": "Bachelor of Science in Dairying",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BSc(DomSc)",
+    "Qual": "Bachelor of Science in Domestic Science",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BScEc",
+    "Qual": "Bachelor of Economic and Social Studies",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BScEcon",
+    "Qual": "Bachelor of Economic Science",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BSc(Econ)",
+    "Qual": "Bachelor of Science in Economics",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BSc(Eng)",
+    "Qual": "Bachelor of Science in Engineering",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BScFor",
+    "Qual": "Bachelor of Science in Forestry",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BSc(HealthSc)",
+    "Qual": "Bachelor of Science in Health Science",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BSc(Hort)",
+    "Qual": "Bachelor of Science in Horticulture",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BSc(MCRM)",
+    "Qual": "Bachelor of Science in Marine and Coastal Reserve Management",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BSc(Med)",
+    "Qual": "Bachelor of Science in Medicine",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BSc(Mid)",
+    "Qual": "Bachelor of SHRM",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BSc(Min)",
+    "Qual": "Bachelor of Science in Mining",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BScPH",
+    "Qual": "Bachelor of Science in Public Health",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BSc(Psych)",
+    "Qual": "Bachelor of Science in Psychology",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BSc(Tech)",
+    "Qual": "Bachelor of Science in Technology",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BSD",
+    "Qual": "Bachelor of Science in Dentistry",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BSocSc",
+    "Qual": "Bachelor of Social Sciences",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BSS",
+    "Qual": "Bachelor of Social Studies",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BStSu",
+    "Qual": "Bachelor of Deaf Studies",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BTchg",
+    "Qual": "Bachelor of Teaching",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BTCP",
+    "Qual": "Bachelor of Town and County Planning",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BTech",
+    "Qual": "Bachelor of Technology",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BTechEd",
+    "Qual": "Bachelor of Technological Education",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BTh",
+    "Qual": "Bachelor of Theology",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BTheol",
+    "Qual": "Bachelor of Theology",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "BTS",
+    "Qual": "Bachelor of Theatre Studies",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "EdB",
+    "Qual": "Bachelor of Education",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "LittB",
+    "Qual": "Bachelor of Literature or Bachelor of Letters",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "LLB",
+    "Qual": "Bachelor of Laws",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "MA",
+    "Qual": "Master of Arts (ancient Scottish universities)",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "MusB",
+    "Qual": "Bachelor of Music",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "ScBTech",
+    "Qual": "Bachelor of Science in Technology",
+    "Level": "Bachelor's Level Qualifications"
+  },
+  {
+    "Abr": "ThB",
+    "Qual": "Bachelor of Theology",
+    "Level": "Bachelor's Level Qualifications"
+  }
+]

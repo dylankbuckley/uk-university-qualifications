@@ -1,0 +1,292 @@
+[
+  {
+    "Abr": "BDS",
+    "Qual": "Bachelor of Dental Surgery",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "BMBS",
+    "Qual": "Bachelors of Medicine and Surgery",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "BMBCh",
+    "Qual": "Bachelors of Medicine and Surgery",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "BVS",
+    "Qual": "Bachelor of Veterinary Surgery",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "BVetM",
+    "Qual": "Bachelor of Veterinary Medicine",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "BVetMed",
+    "Qual": "Bachelor of Veterinary Medicine",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "BVM&S",
+    "Qual": "Bachelor of Veterinary Medicine and Surgery",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "BVMedSc or BVSc",
+    "Qual": "Bachelor of Veterinary Medical Science",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "BVSc",
+    "Qual": "Bachelor of Veterinary Science",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MAcc",
+    "Qual": "Master in Accountancy",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MAnth",
+    "Qual": "Master in Anthropology",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MArt",
+    "Qual": "Master in Arts",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MBBS",
+    "Qual": "Bachelors of Medicine and Surgery",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MBChB",
+    "Qual": "Bachelors of Medicine and Surgery",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MBiochem",
+    "Qual": "Master of Biochemistry",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MBiol",
+    "Qual": "Master of Biology",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MBiolSci",
+    "Qual": "Master of Biochemistry",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MBus",
+    "Qual": "Master in Business and Management",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MChem",
+    "Qual": "Master of Chemistry",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MChemPhys",
+    "Qual": "Master of Chemical Physics",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MChiro",
+    "Qual": "Master of Chiropractic",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MComp",
+    "Qual": "Master of Computer Science",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MDiv",
+    "Qual": "Master of Divinity",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MDes",
+    "Qual": "Master of Design",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MDrama",
+    "Qual": "Master of Drama",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MEarthSci# MESci",
+    "Qual": "Master of Earth Science",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MEcon",
+    "Qual": "Master of Economics",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MEng",
+    "Qual": "Master of Engineering",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MEnvSc",
+    "Qual": "Master of Environmental Science",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MGeog",
+    "Qual": "Master of Geography",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MGeol",
+    "Qual": "Master of Geology",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MGeophys",
+    "Qual": "Master of Geophysics",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MSci (MGeoSci)",
+    "Qual": "Master in Geoscience",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MiF",
+    "Qual": "Master in Finance",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MiM",
+    "Qual": "Master in Management",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MInf",
+    "Qual": "Master of Informatics",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MMark",
+    "Qual": "Matter in Marketing",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MMath",
+    "Qual": "Master of Mathematics",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MMathComp",
+    "Qual": "Master of Computational Mathematics",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MMathCompSci",
+    "Qual": "Master of Mathematics and Computer Science",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MMathPhil",
+    "Qual": "Matter of Mathematics and Philosophy",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MMathPhys",
+    "Qual": "Master of Mathematics and Physics#",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MMathStat",
+    "Qual": "Master of Mathematics and Statistics",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MMet",
+    "Qual": "Master of Meteorology",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MMORSE",
+    "Qual": "Master of Mathematics# Operational Research# Statistics and Economics",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MMS",
+    "Qual": "Master of Management Studies",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MNatSc",
+    "Qual": "Master of Natural Science",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MNursSc",
+    "Qual": "Master of Nursing Science",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MOcean",
+    "Qual": "Master of Oceanography",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MOptom",
+    "Qual": "Master of Clinical Optometry",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MPharm",
+    "Qual": "Master of Pharmacy",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MPhys",
+    "Qual": "Master of Physics",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MPhysPhil",
+    "Qual": "Master of Physics and Philosophy",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MPlan",
+    "Qual": "Master of Planning",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MSci",
+    "Qual": "Master in Science",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MStat",
+    "Qual": "Master of Statistics",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "MTheol",
+    "Qual": "Master of Theology",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  },
+  {
+    "Abr": "VetMB",
+    "Qual": "Bachelor of Veterinary Medicineor BVSs",
+    "Level": "Master's Level Qualifications - Undergraduate degrees"
+  }
+]

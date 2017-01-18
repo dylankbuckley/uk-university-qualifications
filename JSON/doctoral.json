@@ -1,0 +1,242 @@
+[
+  {
+    "Abr": "DBA",
+    "Qual": "Doctor of Business Administration",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DCounsPych",
+    "Qual": "Doctor of Counselling Psychology",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DClinPsych",
+    "Qual": "Doctor of Clinical Psychology",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DDS",
+    "Qual": "Doctor of Dental Surgery",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DEd",
+    "Qual": "Doctor of Education",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DEdChPsy",
+    "Qual": "Doctor of Educational and Child Psychology",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DEng",
+    "Qual": "Doctor of Engineering",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DForensPsy",
+    "Qual": "Doctor of Forensic Psychology",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DHealthPsy",
+    "Qual": "Doctor of Health Psychology",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DHSc",
+    "Qual": "Doctor of Health Science",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DHy",
+    "Qual": "Doctor of Hygiene",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DM",
+    "Qual": "Doctor of Medicine (awarded by thesis at some universities; awarded as a higher doctorate at some universities)",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DMus",
+    "Qual": "Doctor of Music (awarded as a higher doctorate at some universities)",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DMin",
+    "Qual": "Doctor of Ministry",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DNursSc",
+    "Qual": "Doctor of Nursing Science",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DProf",
+    "Qual": "Doctor of Professional Studies",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DPT",
+    "Qual": "Doctor of Practical Theology",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DThM",
+    "Qual": "Doctor of Theology and Ministry",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "EdChPsychD",
+    "Qual": "Doctor of Educational and Child Psychology",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "EdD",
+    "Qual": "Doctor of Education",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "EngD",
+    "Qual": "Doctor of Engineering",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "HScD",
+    "Qual": "Doctor of Health Science",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "JD",
+    "Qual": "Juris Doctor",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "MD",
+    "Qual": "Doctor of Medicine (awarded by thesis at some universities; awarded as a higher doctorate at some universities)",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "MusD",
+    "Qual": "Doctor of Music (awarded as a higher doctorate at some universities)",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "SocScD",
+    "Qual": "Doctor of Social Science",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "ThD",
+    "Qual": "Doctor of Theology",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "PhD",
+    "Qual": "Doctor of Philosophy",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DPhil",
+    "Qual": "Doctor of Philosophy",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "MD",
+    "Qual": "Doctor of Medicine",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "MD(Res)",
+    "Qual": "Doctor of Medicine (Research)",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DD",
+    "Qual": "Doctor of Divinity",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DCL",
+    "Qual": "Doctor of Civil Law",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DLitt",
+    "Qual": "Doctor of Letters",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DLit",
+    "Qual": "Doctor of Literature",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DLit(Ed)",
+    "Qual": "Sixto of Literature (Education)",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DM",
+    "Qual": "Doctor of Medicine",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DMus",
+    "Qual": "Doctor of Music",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DSc",
+    "Qual": "Doctor of Science",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DSc(Econ)",
+    "Qual": "Doctor of Science (Economics)",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DSc(Eng)",
+    "Qual": "Doctor of Science (Engineering)",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DSc(Med)",
+    "Qual": "Doctor of Science (Medicine)",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DTech",
+    "Qual": "Doctor of Technology",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "DUniv",
+    "Qual": "Doctor of the University",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "EngD",
+    "Qual": "Doctor of Engineering",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "LittD",
+    "Qual": "Doctor of Letters",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "LLD",
+    "Qual": "Doctor of Laws",
+    "Level": "Doctoral degrees"
+  },
+  {
+    "Abr": "ScD",
+    "Qual": "Doctor of Science",
+    "Level": "Doctoral degrees"
+  }
+]
